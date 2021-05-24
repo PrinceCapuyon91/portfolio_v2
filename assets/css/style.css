@@ -791,8 +791,8 @@ a:hover {
 }
 
 .aboutMe {
-  margin-left: 8rem;
-  margin-right: 8rem;
+  margin-left: 15%;
+  margin-right: 15%;
   color: #BEBEBE;
 }
 
@@ -800,6 +800,15 @@ a:hover {
   font-family: 'roboto', sans-serif;
   font-size: 1.2rem;
 }
+
+/* @media (max-width: 414px) {
+  .lead {
+    font-size: 100px;  
+    margin-left: 0px;
+    margin-right: 0px;
+    color: red;
+  }
+} */
 
 /*--------------------------------------------------------------
 # Services
