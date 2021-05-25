@@ -609,7 +609,8 @@ a:hover {
 /*--/ Hamburger Navbar /--*/
 .navbar-toggler {
   position: relative;
-  margin-top: 5px;
+  margin-top: 2px;
+  margin-bottom: 3px;
 }
 
 .navbar-toggler:focus,
